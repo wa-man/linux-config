@@ -1,0 +1,5 @@
+2024-03-11 22:58:25.638 [info] Extension host with pid 194670 started
+2024-03-11 22:58:25.667 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-03-11 22:58:26.254 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-11 22:58:26.281 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-11 22:58:26.283 [info] Extension host with pid 194670 exiting with code 0

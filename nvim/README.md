@@ -1,0 +1,3 @@
+# 💤 ZZZVim
+
+My Lazyvim setup!

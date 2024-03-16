@@ -1,0 +1,5 @@
+2024-03-09 21:39:39.950 [info] update#setState idle
+2024-03-09 21:39:49.814 [error] Blocked vscode-webview request vscode-webview://09c4rq7pr3lmtnu581e5059q0iom9mvba7mik3b3ib08upm44pbe/index.html?id=20b3559f-579f-47db-9a0f-4c966060a6cc&origin=20b3559f-579f-47db-9a0f-4c966060a6cc&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app
+2024-03-09 21:39:57.696 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-03-09 21:39:57.697 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 220055]: crashed with code 15 and reason 'killed'
+2024-03-09 21:39:57.901 [info] Extension host with pid 220075 exited with code: 0, signal: unknown.

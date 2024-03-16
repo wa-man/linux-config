@@ -1,0 +1,38 @@
+2024-03-10 08:55:40.205 [info] Extension host with pid 32478 started
+2024-03-10 08:55:40.220 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-10 08:55:40.228 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-10 08:55:40.240 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-10 08:55:40.263 [info] Eager extensions activated
+2024-03-10 08:55:40.280 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-10 08:55:40.281 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-10 08:55:40.285 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-03-10 08:55:40.297 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-10 08:55:40.313 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-03-10 08:55:40.431 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-10 08:55:40.443 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-10 08:55:40.464 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-10 08:55:41.110 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-10 08:55:41.116 [error] Error: ENOENT: no such file or directory, open '/home/emr/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-03-10 08:55:41.155 [error] Canceled: Canceled
+	at new $ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
+	at s.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+	at z.<computed>.T.charCodeAt.z.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+	at l.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:184300)
+	at l.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at f.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:183062)
+	at l.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:184839)
+	at l.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:183831)
+	at l.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21654)
+	at d (/home/emr/.vscode/extensions/tabnine.tabnine-vscode-3.76.0/out/extension.js:17:58839)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2024-03-10 08:55:41.401 [error] Error: ENOENT: no such file or directory, open '/home/emr/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-03-10 08:55:42.153 [error] Error: Channel has been closed
+	at l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2490)
+	at Object.appendLine (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2608)
+	at Object.log (/home/emr/.vscode/extensions/tabnine.tabnine-vscode-3.76.0/out/extension.js:17:158346)
+	at Object.error (/home/emr/.vscode/extensions/tabnine.tabnine-vscode-3.76.0/out/extension.js:17:158690)
+	at t.default.request (/home/emr/.vscode/extensions/tabnine.tabnine-vscode-3.76.0/out/extension.js:17:34153)
+	at async Promise.all (index 9)
+	at async w.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7831)
+2024-03-10 08:55:42.154 [info] Extension host with pid 32478 exiting with code 0

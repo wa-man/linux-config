@@ -1,0 +1,4 @@
+2024-03-11 22:58:18.203 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/emr/Downloads/CatppuccinMocha-Kurzgesagt-StellarPhenomenon.png","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-03-11 22:58:18.390 [info] Started local extension host with pid 194273.
+2024-03-11 22:58:19.356 [error] [Extension Host] (node:194273) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

@@ -1,0 +1,4 @@
+2024-03-10 08:56:50.661 [info] Started local extension host with pid 34861.
+2024-03-10 08:56:51.286 [error] [Extension Host] (node:34861) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-03-10 08:56:51.880 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings

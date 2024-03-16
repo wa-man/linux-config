@@ -1,0 +1,5 @@
+2024-03-10 08:56:58.025 [info] Started local extension host with pid 35381.
+2024-03-10 08:56:58.799 [error] [Extension Host] (node:35381) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-03-10 08:56:58.985 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-03-10 08:57:00.282 [error] ENOENT: no such file or directory, open '/home/emr/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/emr/.config/Code/User/globalStorage/vscodevim.vim/.registers'

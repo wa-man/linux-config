@@ -1,0 +1,25 @@
+{
+  "prefs": {
+    "NewWindowsNumColumns": "160",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "SystemTheme": "false",
+    "QuakeModeEnabled": "false",
+    "AliasExpansionBannerSeen": "true",
+    "FontSize": "13.0",
+    "Shortcuts": "true",
+    "OverrideOpacity": "44",
+    "ShouldDimInactivePanes": "false",
+    "Spacing": "\"Normal\"",
+    "Theme": "{\"Custom\":{\"name\":\"Moonlight\",\"path\":\"/home/emr/.local/share/warp-terminal/themes/Moonlight.yaml\"}}",
+    "OpenWindowsAtCustomSize": "false",
+    "ChangelogVersions": "{\"v0.2024.02.20.08.01.stable_02\":true,\"v0.2024.02.27.08.01.stable_03\":true,\"v0.2024.03.05.08.02.stable_00\":true,\"v0.2024.03.05.08.02.stable_01\":true}",
+    "CrashReportingEnabled": "false",
+    "AIAssistantRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-02-26T09:51:46.600248934Z\"}",
+    "ExperimentId": "636253f5-bec9-4089-a8b3-624895c4ee79",
+    "TelemetryEnabled": "false",
+    "WelcomeTipsFeaturesUsed": "[{\"Action\":\"OpenWarpDrive\"},{\"Hint\":\"BlockSelect\"},{\"Hint\":\"CreateBlock\"},{\"Hint\":\"BlockAction\"},{\"Action\":\"ThemePicker\"}]",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "ExtraMetaKeys": "{\"left_alt\":true,\"right_alt\":false}",
+    "AutosuggestionAcceptedCount": "2"
+  }
+}

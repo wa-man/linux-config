@@ -1,0 +1,8 @@
+08:56:51 GMT+0800 (Hong Kong Standard Time) [INFO]: spawning binary with command: /home/emr/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.116.0/x86_64-unknown-linux-musl/TabNine args: --print-version 
+
+08:56:51 GMT+0800 (Hong Kong Standard Time) [INFO]: spawning binary with command: /home/emr/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.116.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.87.1 pluginVersion=3.76.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=Cosmic Decay vscode-theme-kind=Light vscode-machine-id=a47e2474c34a385363073a82abee23c4a324e05b9a03e99b6199bcb37c76812b vscode-is-new-app-install=false vscode-session-id=3def4e78-b284-4ca7-8402-854a7e1ab6391710032210349 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-found-intellicode=false ide-restart-counter=0 
+
+08:56:51 GMT+0800 (Hong Kong Standard Time) [DEBUG]: capabilities resolved immediately 
+
+08:56:52 GMT+0800 (Hong Kong Standard Time) [WARN]: assistant is closing 
+
